@@ -9,5 +9,5 @@ export const personalData = {
   github: 'https://github.com/akshitmittal20',  
   linkedIn: 'https://linkedin.com/in/akshit-mittal-410893162/',    
   leetcode: "https://leetcode.com/akshitmittal20",
-  resume: "https://drive.google.com/file/d/1AdvmE_nVO8sIMb01W0k2wVxXnNPxlocP/view?usp=drive_link"
+  resume: "https://drive.google.com/file/d/1j3Ca2w_xX110Syg_35V993K2REhzQea6/view?usp=sharing"
 }
